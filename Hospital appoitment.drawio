@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="HcFg-pI2T9TDuJISNWrW">
-    <mxGraphModel>
+    <mxGraphModel dx="1720" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="800" as="sourcePoint" />
+            <mxPoint x="190" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="800" as="sourcePoint" />
+            <mxPoint x="490" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-3" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=4;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;login()&lt;/b&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.0061" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="190" y="280" as="sourcePoint" />
+            <mxPoint x="490" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-4" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=4;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;search doctor()&lt;/b&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.0061" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="190" y="350" as="sourcePoint" />
+            <mxPoint x="490" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeWidth=5;fontSize=22;fontFamily=Times New Roman;fontStyle=1" value="available()">
+          <mxGeometry relative="1" x="0.1923" y="-10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="790" y="600" as="sourcePoint" />
+            <mxPoint x="510" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="790" as="sourcePoint" />
+            <mxPoint x="820" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Doctor&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23e1d5e7%3BstrokeColor%3D%239673a6%3BfontSize%3D16%3B%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2034px%3B%26quot%3B%26gt%3BApp%26lt%3B%2Ffont%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22120%22%20x%3D%22640%22%20y%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Doctor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeWidth=5;fontSize=22;fontFamily=Times New Roman;fontStyle=1" value="confirm appointment()">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="700" as="sourcePoint" />
+            <mxPoint x="200" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-13" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=4;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Select&amp;nbsp; slot()&lt;/b&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.0061" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="190" y="430" as="sourcePoint" />
+            <mxPoint x="490" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#3333FF;fontSize=15;strokeWidth=6;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Patient&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="60" x="130" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#3333FF;fontSize=15;strokeWidth=6;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Patient&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="60" x="130" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W6CVRZaPvMyFGs2kiw03-18" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=4;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;check availability()&lt;/b&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.0061" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="500" y="520" as="sourcePoint" />
+            <mxPoint x="800" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
